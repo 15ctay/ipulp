@@ -40,3 +40,7 @@ footer{border-top:1px solid var(--line);padding:22px 0;color:var(--tx);font-size
 .txctl select{padding:10px 14px;border-radius:10px;border:1px solid var(--line);background:var(--bg2);color:var(--tx);font:inherit;font-size:.9rem;max-width:100%}
 @media(max-width:600px){.txctl select{flex:1 1 45%}}
 .roast{margin-top:6px;padding:8px 12px;background:#ff5a1f14;border-left:3px solid var(--acc);border-radius:8px;font-size:.9rem;font-style:italic}.roast span{font-style:normal;font-weight:800;color:var(--acc);font-size:.72rem;text-transform:uppercase;margin-right:4px}
+.hscall{margin-top:18px;border-left:4px solid var(--acc2)}.hsgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:10px 0 4px}
+.hsgrid>div{display:flex;flex-wrap:wrap;align-items:center;gap:6px}.hscall .lbl{display:block;width:100%;color:var(--mut);font-size:.72rem;text-transform:uppercase;letter-spacing:.08em}.hsnum{color:var(--acc2);margin-left:4px}
+td .tm{display:inline-flex;align-items:center;gap:6px}
+td.tm{display:flex;align-items:center;gap:8px}
