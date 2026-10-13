@@ -1,102 +1,102 @@
 [
  {
   "rank": 1,
-  "team": "Jonathan (Taylor’s Version)",
-  "manager": "lem0324",
-  "score": 83.7,
-  "record": "3-1-0",
-  "pf": 555.22,
-  "form": 130.27,
-  "blurb": "3-1 with 555.22 PF (#1 in the league). The team everyone is chasing."
+  "team": "ETN Dat Boutte",
+  "manager": "Andrew",
+  "score": 84,
+  "record": "3-2-0",
+  "pf": 705.06,
+  "form": 145.25,
+  "blurb": "3-2 with 705.06 PF (#1 in the league). The team everyone is chasing."
  },
  {
   "rank": 2,
-  "team": "ETN Dat Boutte",
-  "manager": "Andrew",
-  "score": 79.7,
-  "record": "2-2-0",
-  "pf": 553.54,
-  "form": 146.88,
-  "blurb": "553.54 PF is #2 in the league, but the record says 2-2. The points are there; the luck isn't."
+  "team": "Jonathan (Taylor’s Version)",
+  "manager": "lem0324",
+  "score": 72.6,
+  "record": "3-2-0",
+  "pf": 650.86,
+  "form": 136.31,
+  "blurb": "3-2, 650.86 PF (#3). Coming off a 95.64-point loss."
  },
  {
   "rank": 3,
   "team": "The Mailman",
   "manager": "Jake",
-  "score": 71.3,
-  "record": "3-1-0",
-  "pf": 518.36,
-  "form": 116.64,
-  "blurb": "3-1, 518.36 PF (#4). Coming off a 141.22-point loss."
+  "score": 72.4,
+  "record": "4-1-0",
+  "pf": 625.96,
+  "form": 124.41,
+  "blurb": "4-1, 625.96 PF (#4). Coming off a 107.60-point win."
  },
  {
   "rank": 4,
   "team": "Christian’s Team",
   "manager": "Christian",
-  "score": 67.2,
-  "record": "2-2-0",
-  "pf": 520.68,
-  "form": 130.86,
-  "blurb": "520.68 PF is #3 in the league, but the record says 2-2. The points are there; the luck isn't."
+  "score": 68.4,
+  "record": "2-3-0",
+  "pf": 669.94,
+  "form": 138.92,
+  "blurb": "669.94 PF is #2 in the league, but the record says 2-3. The points are there; the luck isn't."
  },
  {
   "rank": 5,
-  "team": "Big Load Boy",
-  "manager": "pmay",
-  "score": 55.5,
-  "record": "2-2-0",
-  "pf": 473.04,
-  "form": 124.7,
-  "blurb": "2-2, 473.04 PF (#5). Coming off a 146.82-point win."
+  "team": "Turbo Creamer",
+  "manager": "ctay",
+  "score": 62.7,
+  "record": "3-2-0",
+  "pf": 582.08,
+  "form": 136.57,
+  "blurb": "Hottest stretch around: 136.57 per game over the last two. Last out: W 162.74-149.26."
  },
  {
   "rank": 6,
-  "team": "Turbo Creamer",
-  "manager": "ctay",
-  "score": 38.4,
-  "record": "2-2-0",
-  "pf": 419.34,
-  "form": 107.4,
-  "blurb": "2-2, 419.34 PF (#8). Coming off a 110.40-point win."
+  "team": "Big Load Boy",
+  "manager": "pmay",
+  "score": 60.3,
+  "record": "3-2-0",
+  "pf": 585,
+  "form": 129.39,
+  "blurb": "3-2 on just 585.00 PF (#6). Wins are wins, but the schedule has been kind."
  },
  {
   "rank": 7,
   "team": "Slender Father Of 2",
   "manager": "jamie",
-  "score": 38,
-  "record": "1-3-0",
-  "pf": 453.48,
-  "form": 114.87,
-  "blurb": "1-3, 453.48 PF (#6). Coming off a 102.44-point loss."
+  "score": 56.7,
+  "record": "2-3-0",
+  "pf": 611.94,
+  "form": 130.45,
+  "blurb": "2-3, 611.94 PF (#5). Coming off a 158.46-point win."
  },
  {
   "rank": 8,
-  "team": "Chris Jones’s Pecker",
-  "manager": "Jacob",
-  "score": 29.4,
-  "record": "2-2-0",
-  "pf": 424.46,
-  "form": 80.79,
-  "blurb": "2-2, averaging 80.79 over the last two (#10 in form). Time to tinker."
+  "team": "Ted D's Team",
+  "manager": "Ted D",
+  "score": 34.9,
+  "record": "2-3-0",
+  "pf": 506.54,
+  "form": 113.92,
+  "blurb": "2-3, averaging 113.92 over the last two (#8 in form). Time to tinker."
  },
  {
   "rank": 9,
-  "team": "Ted D's Team",
-  "manager": "Ted D",
-  "score": 28.6,
-  "record": "2-2-0",
-  "pf": 384.58,
-  "form": 99.27,
-  "blurb": "2-2, averaging 99.27 over the last two (#9 in form). Time to tinker."
+  "team": "Chris Jones’s Pecker",
+  "manager": "Jacob",
+  "score": 22.8,
+  "record": "2-3-0",
+  "pf": 512.34,
+  "form": 80.02,
+  "blurb": "2-3, averaging 80.02 over the last two (#10 in form). Time to tinker."
  },
  {
   "rank": 10,
   "team": "Boner Nix",
   "manager": "KevinB",
-  "score": 17.7,
-  "record": "1-3-0",
-  "pf": 376.56,
-  "form": 101.2,
-  "blurb": "1-3, averaging 101.20 over the last two (#8 in form). Time to tinker."
+  "score": 9.1,
+  "record": "1-4-0",
+  "pf": 465.98,
+  "form": 82.94,
+  "blurb": "1-4, averaging 82.94 over the last two (#9 in form). Time to tinker."
  }
 ]
