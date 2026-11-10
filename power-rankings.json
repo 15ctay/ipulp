@@ -1,102 +1,102 @@
 [
  {
   "rank": 1,
-  "team": "Turbo Creamer",
-  "manager": "ctay",
-  "score": 86,
-  "record": "6-2-0",
-  "pf": 1001.6,
-  "form": 144.87,
-  "blurb": "6-2 with 1001.60 PF (#3 in the league). The team everyone is chasing."
+  "team": "Jonathan (Taylor’s Version)",
+  "manager": "lem0324",
+  "score": 73.3,
+  "record": "6-3-0",
+  "pf": 1116.62,
+  "form": 116.57,
+  "blurb": "6-3 with 1116.62 PF (#2 in the league). The team everyone is chasing."
  },
  {
   "rank": 2,
-  "team": "Jonathan (Taylor’s Version)",
-  "manager": "lem0324",
-  "score": 68.9,
-  "record": "5-3-0",
-  "pf": 1005.76,
-  "form": 123.2,
-  "blurb": "Hottest stretch around: 123.20 per game over the last two. Last out: W 122.28-104.68."
+  "team": "The Mailman",
+  "manager": "Jake",
+  "score": 61.6,
+  "record": "6-3-0",
+  "pf": 1072.2,
+  "form": 111.78,
+  "blurb": "6-3, 1072.20 PF (#4). Coming off a 116.50-point loss."
  },
  {
   "rank": 3,
-  "team": "ETN Dat Boutte",
-  "manager": "Andrew",
-  "score": 57.7,
-  "record": "4-4-0",
-  "pf": 1030.44,
-  "form": 106.8,
-  "blurb": "1030.44 PF is #1 in the league, but the record says 4-4. The points are there; the luck isn't."
+  "team": "Big Load Boy",
+  "manager": "pmay",
+  "score": 61.2,
+  "record": "5-4-0",
+  "pf": 996.5,
+  "form": 127.06,
+  "blurb": "Hottest stretch around: 127.06 per game over the last two. Last out: W 121.64-103.08."
  },
  {
   "rank": 4,
-  "team": "The Mailman",
-  "manager": "Jake",
-  "score": 55.6,
-  "record": "6-2-0",
-  "pf": 955.7,
-  "form": 103.87,
-  "blurb": "6-2, averaging 103.87 over the last two (#8 in form). Time to tinker."
+  "team": "Turbo Creamer",
+  "manager": "ctay",
+  "score": 60.4,
+  "record": "6-3-0",
+  "pf": 1069.26,
+  "form": 111.05,
+  "blurb": "6-3, 1069.26 PF (#5). Coming off a 67.66-point loss."
  },
  {
   "rank": 5,
-  "team": "Slender Father Of 2",
-  "manager": "jamie",
-  "score": 45.4,
-  "record": "4-4-0",
-  "pf": 914.14,
-  "form": 113.4,
-  "blurb": "Hottest stretch around: 113.40 per game over the last two. Last out: L 104.68-122.28."
+  "team": "ETN Dat Boutte",
+  "manager": "Andrew",
+  "score": 52.8,
+  "record": "4-5-0",
+  "pf": 1133.52,
+  "form": 102.74,
+  "blurb": "1133.52 PF is #1 in the league, but the record says 4-5. The points are there; the luck isn't."
  },
  {
   "rank": 6,
   "team": "Christian’s Team",
   "manager": "Christian",
-  "score": 42.9,
-  "record": "3-5-0",
-  "pf": 979.86,
-  "form": 102.1,
-  "blurb": "3-5, averaging 102.10 over the last two (#10 in form). Time to tinker."
+  "score": 45.5,
+  "record": "3-6-0",
+  "pf": 1087.18,
+  "form": 106.86,
+  "blurb": "1087.18 PF is #3 in the league, but the record says 3-6. The points are there; the luck isn't."
  },
  {
   "rank": 7,
-  "team": "Big Load Boy",
-  "manager": "pmay",
-  "score": 36.7,
-  "record": "4-4-0",
-  "pf": 874.86,
-  "form": 107.9,
-  "blurb": "4-4, 874.86 PF (#7). Coming off a 132.48-point win."
+  "team": "Slender Father Of 2",
+  "manager": "jamie",
+  "score": 41.7,
+  "record": "4-5-0",
+  "pf": 1025.6,
+  "form": 108.07,
+  "blurb": "4-5, 1025.60 PF (#6). Coming off a 111.46-point loss."
  },
  {
   "rank": 8,
   "team": "Chris Jones’s Pecker",
   "manager": "Jacob",
-  "score": 36,
-  "record": "5-3-0",
-  "pf": 836.76,
-  "form": 107.39,
-  "blurb": "5-3 on just 836.76 PF (#8). Wins are wins, but the schedule has been kind."
+  "score": 35,
+  "record": "6-3-0",
+  "pf": 930.52,
+  "form": 107.06,
+  "blurb": "6-3 on just 930.52 PF (#9). Wins are wins, but the schedule has been kind."
  },
  {
   "rank": 9,
   "team": "Ted D's Team",
   "manager": "Ted D",
-  "score": 16.6,
-  "record": "2-6-0",
-  "pf": 819.94,
-  "form": 103.75,
-  "blurb": "2-6, averaging 103.75 over the last two (#9 in form). Time to tinker."
+  "score": 32.8,
+  "record": "3-6-0",
+  "pf": 938,
+  "form": 116.81,
+  "blurb": "Hottest stretch around: 116.81 per game over the last two. Last out: W 118.06-116.50."
  },
  {
   "rank": 10,
   "team": "Boner Nix",
   "manager": "KevinB",
-  "score": 8.9,
-  "record": "1-7-0",
-  "pf": 779.9,
-  "form": 108.69,
-  "blurb": "1-7, 779.90 PF (#10). Coming off a 108.72-point loss."
+  "score": 23.5,
+  "record": "2-7-0",
+  "pf": 905.08,
+  "form": 116.95,
+  "blurb": "Hottest stretch around: 116.95 per game over the last two. Last out: W 125.18-111.46."
  }
 ]
